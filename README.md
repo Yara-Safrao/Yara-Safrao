@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yara-Safrao
 - 👀 I’m interested in frontend development and UX design
-- 🌱 I’m currently learning HTML,CSS and Java
+- 🌱 I’m currently learning HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects
 - 📫 email:yaramicaela74@gmail.com
 - 😄 Pronouns: she/her
